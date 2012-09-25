@@ -1,0 +1,9 @@
+MSU's Homepage analysis
+
+The first thing that catches my attention about MSU's homepage is how heavily it is designed around the Spartan branding. I've done a fair amount of work with promotional video at State, so I am pretty familiar with all the branding standards, and this layout follows all the rules meticulously.
+
+The second aspect that draws my eye is the cycling images that appear below the navigation bar. I'm unsure if this is Javascript or flash. I think it is flash, but I'm still a little unsure in distinguishing between what can be done in each. I would say JS for sure, but there are buttons that come in with the images and all land in different locations. It's obvious that much thought went into
+
+The twitter feed is a nice addition to the front page. It show that people are currently engaging with the university. And it's format is nice in comparison to the more classic blue twitter feed that is seen on many sites. There is some JS to make the bottom right content "bounce" with a mouse over; a nice subtle bit of interactivity.
+
+The social media aspect of the homepage is nicely used. While there are the traditional icons at the bottom of the page to link to the sites, there is also a "stay connected" button at the very top of the page. This stay connected button is a nice change from the normal use of "like us" or "find us" and presents it in a more classy and professional manner. Also on the social media icons, there is a JS mouse over to pop up the full name of the social media site.
