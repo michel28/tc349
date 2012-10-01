@@ -31,9 +31,19 @@ ul {
 
 li {
 	display:inline;
-	padding: 0 30px;
+	padding: 1px 30px;	
 }
 
-.navigation {
-	a. color: #ffffff;
+.linkstyle2 a {
+	color: #3366FF;
+}
+
+.linkstyle2 a:hover {
+	font-size: 18px;
+	background: #ffffff;
+}
+
+.linkstyle2 {
+	width: 600px;
+	height: 20px;
 }
