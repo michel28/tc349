@@ -11,39 +11,65 @@ body {
 }
 
 h1 {
-margin: 10;
-background: #ffffff;
-padding: 10px;
-text-align: right;
+	margin: 10;
+	background: #ffffff;
+	padding: 12px 10px 10px;
+	text-align: right;
+}
+
+h2 {
+	margin: 15px 0px;
+	padding: 3 px;
+	text-shadow: 2px 2px 2px #909090;
 }
 
 a {
-	color: #9999FF;
+	color: #808080;
 	text-decoration: none;
+}
+
+a:hover {
+	color: #33CCFF;
 }
 
 ul {
 	list-style: none;
 	margin: 0;
-	padding: 0;
+	padding: 10px;
 	text-align: center;
 }
 
 li {
-	display:inline;
-	padding: 1px 30px;	
+	display:inline-block;
+	padding: 1px 30px;
 }
 
 .linkstyle2 a {
 	color: #3366FF;
+	padding: 10px;
+	margin: 0px 0px 50px 0px;
 }
 
 .linkstyle2 a:hover {
-	font-size: 18px;
+	color: #33CCFF;
 	background: #ffffff;
+	padding: 10px;
 }
 
-.linkstyle2 {
-	width: 600px;
-	height: 20px;
+.linkstyle2 a:visited {
+	border: none;
+}
+
+.liststyle2 {
+	text-align: left;
+	padding: none;
+}
+
+.liststyle2 li {
+	text-align: left;
+}
+
+img {
+	margin: 10px 0px;
+	border: solid 2px #000000;
 }
