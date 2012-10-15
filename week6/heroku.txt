@@ -1,0 +1,7 @@
+While heroku.com has a ton of information stored in the site, it is all presented in a very visually engaging manner. The color scheme is unified but also varying, and the icons are easy to comprehend and navigate. The top portion of the "addons.heroku".com page nicely uses a repeating and tiling background image. Below that section of the site, there is a subtle gradation that continues into a solid color that exists for most of the site.
+
+The "partners.heroku.com' page has some very nice user experiences. The map has an element of interactivity, but below that the partnering business icons are very engaging. With each mouse over, the icon "scrolls" up to reveal a short description of the business. When the mouse is removed from that location, the icon "scrolls" back down into its original location.
+
+Overall the site is a nice solution to a site that is required to host a large amount of information.
+
+I chose to use a ###### layout because ...
