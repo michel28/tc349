@@ -4,4 +4,4 @@ The "partners.heroku.com' page has some very nice user experiences. The map has 
 
 Overall the site is a nice solution to a site that is required to host a large amount of information.
 
-I chose to use a ###### layout because ...
+I chose to use a double column layout because this site is content heavy in text, and large bodies of text are more easily digested in a vertical standard text-body format. The whole purpose of this site is to be a portrait of myself and my work, so the second column functions nicely to hold links to external sites that contain my work.
