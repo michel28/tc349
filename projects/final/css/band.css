@@ -19,12 +19,14 @@ h1 {
 }
 
 h2 {
-	margin-bottom: 5px;
+	margin-bottom: -20px;
 	font-family: 'Lustria', serif;
+	text-indent: -9000px;
 }
 
 h3 {
 	margin-bottom: 5px;
+	margin-top: 20px;
 	font-weight: normal;
 	text-transform: uppercase;
 }
@@ -55,6 +57,7 @@ footer {
 	border-bottom: 1px solid #e3e3e3;
 	text-align: center;
 }
+
 .logo img {
 	margin-left: 425px;
 }
@@ -65,10 +68,6 @@ footer {
 }
 
 .nav a:hover {
-	color: #a36526;
-}
-
-li a.active {
 	color: #a36526;
 }
 
@@ -106,6 +105,45 @@ li a.active {
 	margin-top: 0px;
 }
 
+.nav a:active{
+font-weight: bold;
+}
+
+.fan {
+	margin-top: -630px;
+	margin-left: 40px;
+	position:absolute;
+	clip:rect(0px,320px,605px,0px)
+}
+
+a {
+	color: #ccc;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #a36526;
+}
+
+video {
+	width: 100%;
+	height: inherit;
+	}
+
+.blog li {
+	text-transform:uppercase;
+	text-decoration: none;
+	display:inline-block;
+	padding: 0 42px 0 42px;
+	margin: none;
+	color: #ccc
+}
+
+.blog ul {
+	padding-bottom: 15px;
+	margin: 5px 0 0 0;
+	text-align: center;
+}
 
 @media (max-width: 320px) {
 	.container {
