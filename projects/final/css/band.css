@@ -31,6 +31,7 @@ h3 {
 	text-transform: uppercase;
 }
 
+
 .container {
 	width: 1000px;
 	margin: 0 auto;
@@ -46,7 +47,7 @@ footer {
 	text-transform:uppercase;
 	text-decoration: none;
 	display:inline-block;
-	padding: 0 42px 0 42px;
+	padding: 0 40px 0 40px;
 	margin: none;
 	color: #ccc
 }
